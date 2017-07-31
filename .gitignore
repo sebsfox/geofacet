@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/pngs
+*.csv
+geofacet.Rproj
+"^utla"
