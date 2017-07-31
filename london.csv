@@ -1,0 +1,34 @@
+code,name,col,row
+E09000003,Barnet,4,1
+E09000010,Enfield,6,1
+E09000014,Haringey,5,1
+E09000017,Hillingdon,1,3
+E09000015,Harrow,2,2
+E09000005,Brent,3,2
+E09000007,Camden,4,2
+E09000012,Hackney,5,2
+E09000019,Islington,6,2
+E09000031,Waltham Forest,7,2
+E09000026,Redbridge,8,2
+E09000025,Newham,8,3
+E09000016,Havering,10,3
+E09000002,Barking and Dagenham,9,3
+E09000009,Ealing,2,3
+E09000013,Hammersmith and Fulham,3,3
+E09000020,Kensington and Chelsea,4,3
+E09000033,Westminster,5,3
+E09000001,City of London,6,3
+E09000030,Tower Hamlets,7,3
+E09000018,Hounslow,2,4
+E09000011,Greenwich,8,4
+E09000028,Southwark,6,4
+E09000027,Richmond upon Thames,3,4
+E09000032,Wandsworth,4,4
+E09000022,Lambeth,5,4
+E09000023,Lewisham,7,4
+E09000004,Bexley,9,4
+E09000024,Merton,4,5
+E09000021,Kingston upon Thames,3,5
+E09000029,Sutton,5,5
+E09000008,Croydon,6,5
+E09000006,Bromley,7,5
